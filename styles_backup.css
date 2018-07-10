@@ -1,0 +1,13 @@
+div.spot {
+  display: inline;
+  outline: 1px solid;
+  width: 100px;
+  height: 100px;
+}
+div.row {
+
+}
+#maze {
+  width: 500px;
+  height: 500px;
+}
